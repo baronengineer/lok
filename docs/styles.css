@@ -30,7 +30,7 @@ body {
 /* Header */
 .header {
     grid-area: header;
-    background-image: url('../assets/svg/nn.svg'); /* Path gambar */
+    background-image: url('../assets/nn.svg'); /* Path gambar */
     background-size: cover; /* Gambar menutupi area */
     background-repeat: no-repeat; /* Tidak ada pengulangan */
     background-position: center; /* Gambar di tengah */
